@@ -2,5 +2,5 @@ package com.app.service;
 
 public interface SpringBootProfilecodeService {
 
-	public void SpringBootProfilecode();
+	public void notifaction();
 }
